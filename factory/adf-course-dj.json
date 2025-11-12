@@ -1,0 +1,9 @@
+{
+	"name": "adf-course-dj",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "100bb4cd-4a41-4498-8694-95751b0bafd9",
+		"tenantId": "c27c0cc6-af64-4a59-bb2b-0a3c32ed6ad8"
+	}
+}
